@@ -19,13 +19,9 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
    git clone https://github.com/Imnate-01/spring-boot-demo.git
 Navega a la carpeta del proyecto:
 
-bash
-Copy
 cd spring-boot-demo
 Compila y ejecuta el proyecto con Maven:
 
-bash
-Copy
 mvn spring-boot:run
 Esto iniciará la aplicación Spring Boot en el puerto 8080.
 
@@ -35,6 +31,5 @@ Abre tu navegador o Postman.
 
 Visita la siguiente URL:
 
-Copy
 http://localhost:8080/api/hola
 Deberías ver el mensaje: ¡Hola Spring!.
